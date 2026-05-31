@@ -6,9 +6,8 @@ Este repositório contém as soluções desenvolvidas para a **Lista de Exercíc
 
 ## 🚀 Tecnologias Utilizadas
 
-* 💻 **Linguagem:** Java / C#
-* 🛠️ **Ambiente:** IDE de Desenvolvimento
-* 🗂️ **Controle de Versão:** Git & GitHub
+* 💻 **Linguagem:** Java
+* 🛠️ **Ambiente:** VSCODE
 
 ---
 
